@@ -3,4 +3,3 @@
 # Return the absolute value of the difference between a and b.
 def main(a,b):
     return abs(a-b)
-print(main(3,-3))
