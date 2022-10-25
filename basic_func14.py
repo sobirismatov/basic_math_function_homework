@@ -5,3 +5,4 @@ from math import floor
 def main(a,b):
     return floor(a), floor(b)
 
+
