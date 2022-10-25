@@ -3,4 +3,5 @@
 # Assign the value pi to the variable "a" and return.
 from math import pi
 def main(a):
-    return a==pi
+    a=pi
+    return a
